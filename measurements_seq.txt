@@ -1,0 +1,9 @@
+m5xlarge,8,100MB,0m6.634s
+m5xlarge,8,100MB,0m6.597s
+m5xlarge,8,100MB,0m6.487s
+m5xlarge,8,500MB,0m31.205s
+m5xlarge,8,500MB,0m30.562s
+m5xlarge,8,500MB,0m31.814s
+m5xlarge,8,1GB,1m0.374s
+m5xlarge,8,1GB,1m0.161s
+m5xlarge,8,1GB,1m2.140s
